@@ -25,8 +25,9 @@
 ### Задание 1
 
 
-![alt text](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)
-
+![GitLab_1](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)
+![GitLab_2](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab2.png)
+![GitLab_3](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab3.png)
 
 ### Задание 2
 
