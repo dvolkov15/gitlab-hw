@@ -40,7 +40,7 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![GITLAB_1](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)
+![alt text](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)
 
 
 ---
