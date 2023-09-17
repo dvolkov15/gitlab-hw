@@ -24,6 +24,7 @@
 
 ### Задание 1
 
+Скрины установки и работы гитлаб ранера:
 
 ![GitLab_1](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)
 ![GitLab_2](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab2.png)
@@ -31,18 +32,10 @@
 
 ### Задание 2
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+[GIT-CI](https://github.com/dvolkov15/gitlab-hw/blob/main/.gitlab-ci.yml)
 
-`При необходимости прикрепитe сюда скриншоты
-[ССЫЛКА](https://github.com/dvolkov15/gitlab-hw/blob/main/.gitlab-ci.yml)
+Скрин выпполнения стейджей:
+![GitLab_4](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab3.png)
 
-
----
 
 
