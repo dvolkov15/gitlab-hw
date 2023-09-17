@@ -40,7 +40,7 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![GITLAB_1](https://github.com/dvolkov15/gitlab-hw/blob/main/img/gitlab1.png)`
 
 
 ---
